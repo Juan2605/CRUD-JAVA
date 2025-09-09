@@ -6,7 +6,6 @@ public class Main {
         float salario = 0;
         char sexo = 0;
         String cargo = "";
-        // char x = menu();
         boolean ACTIVO = true;
         Scanner datos = new Scanner(System.in);
         
