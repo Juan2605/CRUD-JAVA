@@ -81,7 +81,7 @@ public class CRUD {
         System.out.print("Ingrese el salario: ");
         salarios[contadorUsuarios] = datos.nextFloat();
         datos.nextLine();
-        //Explicar
+    
         System.out.print("Ingrese el sexo (M/F): ");
         sexos[contadorUsuarios] = datos.next().toUpperCase().charAt(0);
         datos.nextLine();
